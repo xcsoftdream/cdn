@@ -1,4 +1,5 @@
 # About
+[![](https://data.jsdelivr.com/v1/package/gh/soxft/cdn/badge)](https://www.jsdelivr.com/package/gh/cdn/TimeMail)
 
 > 用于加速静态文件
 
