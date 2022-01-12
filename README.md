@@ -1,17 +1,15 @@
 # About
 [![](https://data.jsdelivr.com/v1/package/gh/soxft/cdn/badge)](https://www.jsdelivr.com/package/gh/soxft/cdn)
 
-> 用于加速静态文件
-
-# 方法
-
 > 使用Jsdelivr加速Github文件
 
 ex: https://cdn.jsdelivr.net/gh/user/repo@version/file.js
 
 # 本仓库: 
 
-  https://cdn.jsdelivr.net/gh/soxft/cdn@main/
+  - https://cdn.jsdelivr.net/gh/soxft/cdn@main/
+  
+  - https://www.jsdelivr.com/package/gh/soxft/cdn
 
 ## 注意
   
