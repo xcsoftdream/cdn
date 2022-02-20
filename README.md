@@ -1,7 +1,7 @@
 # About
 [![](https://data.jsdelivr.com/v1/package/gh/soxft/cdn/badge)](https://www.jsdelivr.com/package/gh/soxft/cdn)
 
-> 使用Jsdelivr加速Github文件
+> 使用Jsdelivr~~加速~~Github文件
 
 # 本仓库: 
 
