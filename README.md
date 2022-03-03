@@ -13,7 +13,7 @@
 
 > 使用Vercel来获取较快的访问速度, 但不做可用性保证
 
- - https://cdn.9420.ltd
+ - https://cdn.iiroes.cn
 
 # 注意
   
